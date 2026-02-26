@@ -24,7 +24,7 @@ Most WildFly Extras projects track their issues using GitHub issues.
 
 If you are looking to get started with WildFly check out our https://www.wildfly.org/guides/[guides] and https://docs.wildfly.org[main documentation].
 
-To discuss and see what the WildFly community is up, come discuss in our chat rooms on https://wildfly.zulipchat.com/[Zulip].
+To discuss and see what the WildFly community is up to, come discuss in our chat rooms on https://wildfly.zulipchat.com/[Zulip].
 
 '''
 
